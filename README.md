@@ -12,11 +12,15 @@ Scrape pattern from list of websites
 
 Create a file in this directory called `websites.txt`
 
-The format of this file should be:
+The format of this file should be a single website perline:
 
 ```
 somewebsite.com
 someotherwebsite.com
+.
+.
+.
+somelastwebsite.com
 ```
 
 + Capitalization does not matter
