@@ -10,6 +10,7 @@ Scrape pattern from list of websites
 
 ## How To
 
+### Setting up, and running the script
 Create a file in this directory called `websites.txt`
 
 The format of this file should be a single website perline:
@@ -31,6 +32,26 @@ run the script with:
 ```
 python3 scraper.py
 ```
+
+### output
+
+The output format is
+
+```
+0 url []
+1 url []
+2 url [some@email.com]
+.
+.
+i url ERR
+.
+.
+n url [someother@email.com]
+```
+
++ `[]` means there were no emails found on that website
++ `[some@email.com, ...]` list of emails found
++ `ERR` means there was some error trying to load the website 
 
 ### trouble shooting
 
