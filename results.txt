@@ -1,0 +1,25 @@
+0	http://www.cleaverco.com	['cleaver@cleaverco.com', 'cleaver@cleaverco.com']
+1	http://www.nyccateringco.com	ERR
+2	http://www.cleaverco.com	['cleaver@cleaverco.com', 'cleaver@cleaverco.com']
+3	http://www.keikoaoki.com	ERR
+4	http://www.cafierolussier.com	[]
+5	http://www.manhattanclub.com	[]
+6	http://www.nyccateringco.com	ERR
+7	http://www.guyandgallardcateringmidtown.com	ERR
+8	http://www.berkeleycaterersny.com	ERR
+9	http://www.citycateringandcafe.com	[]
+10	http://www.paradistogo.com	['info@paradistogo.com', 'info@paradistogo.com']
+11	http://www.nyccateringco.com	ERR
+12	http://www.barbarescorestaurant.com	['info@barbarescorestaurant.com']
+13	http://www.masterpiececaterers.com	[]
+14	http://www.lescatering.com	ERR
+15	http://www.cambridgecatering.com	[]
+16	http://www.relishcaterers.com	['events@relishcaterers.com', 'events@relishcaterers.com', 'events@relishcaterers.com', 'events@relishcaterers.com', 'events@relishcaterers.com', 'events@relishcaterers.com', 'info@relishcaterers.com', 'info@relishcaterers.com']
+17	http://www.mymostfavorite.com	['tgundlock@g-raydesign.com', 'info@mymostfavorite.com']
+18	http://www.zabars.com	[]
+19	http://www.waterside25.com	ERR
+20	http://www.aysstaff.com	[]
+21	http://www.barbarescorestaurant.com	['info@barbarescorestaurant.com']
+22	http://www.catertoyoufoodservice.com	['contact@ctyfs.com', 'contact@ctyfs.com', 'contact@ctyfs.com']
+23	http://www.igmc.biz	[]
+24	http://www.aysstaff.com	[]
