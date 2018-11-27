@@ -2,7 +2,7 @@ import numpy as np
 import re
 import requests
 
-urls_fname = 'websites2.txt'
+urls_fname = 'websites.txt'
 out_fname  = 'results.txt'
 log_fname  = 'err.log'
 
