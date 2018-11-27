@@ -30,7 +30,7 @@ somelastwebsite.com
 run the script with:
 
 ```
-python3 scraper.py
+python3 email_scraper.py
 ```
 
 ### output
@@ -56,6 +56,10 @@ n url [someother@email.com]
 ### trouble shooting
 
 Make sure that the scraper.py has execute and write permissions.
+
+## Features
+
+Follows links that have the word *"Contact"* in them
 
 ## Goal
 
